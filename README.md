@@ -17,6 +17,50 @@
 
 #  Explicacion del procedimiento
 
+![image](https://user-images.githubusercontent.com/84412132/122849788-caf53f00-d2d1-11eb-9f5e-0b19585a6f7c.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122850038-30e1c680-d2d2-11eb-9f3e-0af337a948fa.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122850069-3c34f200-d2d2-11eb-8352-e69e73b527ea.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122850099-4820b400-d2d2-11eb-8ff3-0e468924d53a.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122850119-5373df80-d2d2-11eb-9fe0-671ec7d80a90.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122850148-6090ce80-d2d2-11eb-8b09-26befe02be6d.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122853527-fd099f80-d2d7-11eb-9b2d-0a1812eef31f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Video
 
