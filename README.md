@@ -8,7 +8,7 @@
 
 # Objetivos Especificos
 
-• Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff para el desarrollo de circuitos en serie, paralelo y mixtos.
+• Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff  y analisis de nodos para el desarrollo de circuitos en serie, paralelo y mixtos.
 
 # Marco Teorico
 ![image](https://user-images.githubusercontent.com/84587118/122864800-e882d280-d2ea-11eb-851d-83839fa50399.png)
@@ -43,5 +43,10 @@ https://youtu.be/KmZR_MTzOEo
 
 # Conclusion
 
+•	Al aplicar el método de análisis de nodos nos damos cuenta es uno de los caminos que no ayuda analizar el circuito y resolverlos y sacar los valores del voltaje.
+
+• Para realizar la simulación debemos saber armar el circuito tener muy en cuenta que elementos que se van a ocupar y como se lo va a conectar para así poder realizar las mediciones y debemos tomar en cuenta como se mide el voltaje, es decir saber que el voltaje se mide en paralelo y esto es un concepto fundamental.
+
 # Biografia
 
+SENSORICX, “ANÁLISIS DE NODOS.” https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/.
