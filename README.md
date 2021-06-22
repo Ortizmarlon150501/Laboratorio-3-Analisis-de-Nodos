@@ -1,8 +1,5 @@
 # Laboratorio-3-Analisis-de-Nodos
 
-
-# Laboratorio 3
-
 # Objetivos 
 
 # Objetivo Generales
