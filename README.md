@@ -14,6 +14,8 @@
 • Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff para el desarrollo de circuitos en serie, paralelo y mixtos.
 
 # Marco Teorico
+![image](https://user-images.githubusercontent.com/84587118/122864800-e882d280-d2ea-11eb-851d-83839fa50399.png)
+
 
 #  Explicacion del procedimiento
 
