@@ -36,34 +36,9 @@
 ![image](https://user-images.githubusercontent.com/84585835/122872324-ed994f00-d2f5-11eb-9fee-3d99b077456d.png)
 
 
+# RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/84585835/122873729-bf1c7380-d2f7-11eb-95ae-39bc58874050.png)
 
 # Video
 
